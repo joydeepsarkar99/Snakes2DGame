@@ -1,4 +1,4 @@
-# Snakes2DGame
+# Snakes_2DGame
 A GUI based Arcade 2D game of Snakes using Java Swing 
 
 -->The functionalities of the game are controlling the snake using key buttons, making it eat food, increasing the snake's size and scores, and ending the game when the snake collides with obstacles and restarting the game if the user wants to.
@@ -24,3 +24,10 @@ A GUI based Arcade 2D game of Snakes using Java Swing
 8.Classes that will be used in the game include J Button, J check boxes, combo box, J File Chooser, J Panel and J Frame.
 
 9.The styling of the project includes a window with a container for the game.
+
+
+BELOW ARE SOME SCREENSHOTS PROVIDED OF THE GAME :
+
+![Image 1](https://github.com/joydeepsarkar99/Snakes2DGame/assets/138491246/302fac50-4278-425f-a289-23c999b006e8)
+
+![Image 2](https://github.com/joydeepsarkar99/Snakes2DGame/assets/138491246/b8441bac-42d3-4083-9e40-d2fcfeedf343)
